@@ -1,6 +1,6 @@
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
-├── JupyterNotebooks/submission.ipynb      <- Narrative documentation of analysis in Jupyter notebook
+├── JupyterScripts/submission.ipynb      <- Narrative documentation of analysis in Jupyter notebook
 ├── non_technical.pdf                    <- PDF version of project presentation
 └── images                              <- Both sourced externally and generated from code
 ```
