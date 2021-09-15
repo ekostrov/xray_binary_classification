@@ -73,6 +73,6 @@
 * ## Another way, would be to use another model for transfer learning.
 * ## Find more extensive data set  with chest x-ray images.
 
-# Please review my full work in [Jupyter Notebook](JupyterNotebooks/submission.ipynb) or in the [non technical presentation](non_technical.pdf)
+# Please review my full work in [Jupyter Notebook](https://github.com/ekostrov/xray_binary_classification/blob/main/JupyterScripts/submission.ipynb) or in the [non technical presentation](non_technical.pdf)
 
 For any additional questions, please contact Yevgeniy (Gene) Kostrov at ekostrov@yahoo.com
