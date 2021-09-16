@@ -4,7 +4,7 @@
 ├── non_technical.pdf                    <- PDF version of project presentation
 └── images                              <- Both sourced externally and generated from code
 ```
-![xray](../images/first.png)
+![xray](images/first.png)
 ***
 # Classify Chest X-ray Images
 ** by Yevgeniy Kostrov
